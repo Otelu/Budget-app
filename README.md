@@ -1,4 +1,4 @@
-Budget Manager
+#Budget Management & Visualization
 
 This Python code defines a Category class that allows users to manage budgets for different categories like food, clothing, and entertainment. The class provides methods for depositing funds, withdrawing funds, transferring funds between categories, and checking the current balance. It also includes a method to generate a formatted summary of the budget.
 
